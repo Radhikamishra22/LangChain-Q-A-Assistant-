@@ -11,4 +11,4 @@ This project aims to create a research assistant using LangChain and OpenAI's GP
 
 This project is a Streamlit based application allows users to upload videos, transcribe their audio using OpenAI's Whisper, and create embeddings with LangChain-OpenAI and store the embeddings in Pinecone Vector DB for further querying. Users can then chat with the video content by selecting transcribed videos and asking questions.
 
-- [Readme](./chat-with-video/Readme.md)
+- [Readme](./Chat-with-video/Readme.md)
